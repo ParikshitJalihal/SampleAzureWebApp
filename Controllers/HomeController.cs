@@ -9,7 +9,7 @@ namespace SampleAzureWebApp.Controllers
         private readonly ILogger<HomeController> _logger;
 
         public HomeController(ILogger<HomeController> logger)
-        {
+        {// Edit this file 
             _logger = logger;
         }
 
