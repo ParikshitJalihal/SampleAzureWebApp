@@ -10,6 +10,7 @@ namespace SampleAzureWebApp.Controllers
 
         public HomeController(ILogger<HomeController> logger)
         {
+        // Added this file for testing
             _logger = logger;
         }
 
