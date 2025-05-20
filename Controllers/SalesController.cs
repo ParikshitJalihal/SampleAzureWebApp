@@ -2,6 +2,7 @@
 
 namespace SampleAzureWebApp.Controllers
 {
+    // Deploying for testing
     public class SalesController : Controller
     {
         public IActionResult Index()
