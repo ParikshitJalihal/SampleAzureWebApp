@@ -7,5 +7,6 @@
 	  
   </PropertyGroup>
 	<Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v.*.*\WebApplications\Microsoft.WebApplication.targets" />
+	<Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v.*\Web\Microsoft.Web.Publishing.targets" />
 
 </Project>
